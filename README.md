@@ -2,6 +2,8 @@
 
 Laravel / Nuxt.js / Next.js を使ったWebアプリケーション開発の経験がある、フルスタック志向のWebエンジニアです。
 
+🔗 **Portfolio**: https://kttmm717-portfolio.vercel.app
+
 - 🏫 教育関連サービスのWebアプリケーションで、申請機能・入退室機能・ダッシュボードなどの開発と改修を担当してきました
 - 🔁 既存アプリケーションを Next.js / React に移行するリプレイスプロジェクトに参画し、画面の移行やバックエンドの改修を行いました
 - 🛒 前職ではスーパーマーケットの部門運営を担当。売上・予算管理や従業員のシフト管理の経験から、目標から逆算して計画を立て、周りと連携しながら進めることを大切にしています
@@ -49,3 +51,9 @@ Laravel / Nuxt.js / Next.js を使ったWebアプリケーション開発の経�
 `shi` / `si` のような綴りの揺れや「っ」「ん」の入力方法の違いに対応した判定ロジックを自作し、Vitest でテストしています。
 
 `React` `TypeScript` `Vite` `Vitest` ・ [Demo](https://japanese-typing-game-pi.vercel.app) ・ [Code](https://github.com/kttmm717/japanese-typing-game)
+
+### [ポートフォリオサイト](https://kttmm717-portfolio.vercel.app)
+
+自己紹介・スキル・作品・経歴をまとめたサイトです。掲載内容をデータファイルに集約し、セクションごとにコンポーネントを分けて作っています。
+
+`Next.js` `React` `TypeScript` `CSS Modules` ・ [Demo](https://kttmm717-portfolio.vercel.app) ・ [Code](https://github.com/kttmm717/portfolio)
